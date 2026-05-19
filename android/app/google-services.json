@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069092663150",
+    "project_id": "torch-app-99dc7",
+    "storage_bucket": "torch-app-99dc7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069092663150:android:cddbda273f1b86f558db7f",
+        "android_client_info": {
+          "package_name": "com.naman.discolight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCugLM-Rf0a0Yh80zaO6AKsimcvJZ0F5GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
